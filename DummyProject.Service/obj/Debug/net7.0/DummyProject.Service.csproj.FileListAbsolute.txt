@@ -1,0 +1,17 @@
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\DummyProject.Service.deps.json
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\DummyProject.Service.dll
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\DummyProject.Service.pdb
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\Dummy.Domain.dll
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\DummyProject.Repository.dll
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\DummyProject.Repository.pdb
+D:\DummyProject\DummyProject.Service\bin\Debug\net7.0\Dummy.Domain.pdb
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.csproj.AssemblyReference.cache
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.AssemblyInfoInputs.cache
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.AssemblyInfo.cs
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.csproj.CoreCompileInputs.cache
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.csproj.CopyComplete
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.dll
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\refint\DummyProject.Service.dll
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\DummyProject.Service.pdb
+D:\DummyProject\DummyProject.Service\obj\Debug\net7.0\ref\DummyProject.Service.dll

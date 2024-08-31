@@ -1,0 +1,11 @@
+D:\DummyProject\Dummy.Domain\bin\Debug\net7.0\Dummy.Domain.deps.json
+D:\DummyProject\Dummy.Domain\bin\Debug\net7.0\Dummy.Domain.dll
+D:\DummyProject\Dummy.Domain\bin\Debug\net7.0\Dummy.Domain.pdb
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\Dummy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\Dummy.Domain.AssemblyInfoInputs.cache
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\Dummy.Domain.AssemblyInfo.cs
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\Dummy.Domain.csproj.CoreCompileInputs.cache
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\Dummy.Domain.dll
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\refint\Dummy.Domain.dll
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\Dummy.Domain.pdb
+D:\DummyProject\Dummy.Domain\obj\Debug\net7.0\ref\Dummy.Domain.dll
